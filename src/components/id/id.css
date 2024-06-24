@@ -1,0 +1,27 @@
+.card {
+    max-width: 35vw;
+    padding: 10% 0;
+    padding-left: 5%;
+
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;  
+    
+    font-family: 'Karantina', sans-serif;
+    text-align: left;
+    user-select: none;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+  
+.greeting {
+    font-size: 4em;  
+    margin-bottom: 2%; 
+}
+  
+.name {
+    font-size: 10em;
+    font-weight: bold;  
+    letter-spacing: 0.05em;  
+}

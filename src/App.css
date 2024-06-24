@@ -1,0 +1,23 @@
+body{
+    overflow: hidden;
+    background: #FFFCF5;
+    margin: 0px;
+}
+
+.app{
+    display: flex;
+    width: 100vw;
+    height: 100vh;   
+}
+
+.leftside{
+    max-height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;    
+}
+
+.about{
+    position: relative;
+}
+

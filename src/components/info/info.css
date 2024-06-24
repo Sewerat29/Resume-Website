@@ -1,0 +1,89 @@
+.info-container {
+    width: 65vw;
+    font-family: 'Inria Sans', sans-serif;
+
+    overflow-y: scroll;
+
+    display: flex;
+    flex-direction: column;
+  }
+  .info-container::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .info-container::-webkit-scrollbar-track {
+    border-left: 2px solid black    
+  }
+  
+  .info-container::-webkit-scrollbar-thumb {
+    background: #f5e4c3;
+    border: 2px solid black;
+    border-right: none;
+    
+  }
+
+  h2 {
+    margin-block-start: -2px;
+  }
+  
+  .info-title {   
+    background: #FFD78A;
+    border: 2px solid black;
+    border-right: none;
+    border-left: none;
+    font-size: 1.5em;    
+    padding-left: 1%;
+    text-transform: uppercase;
+  }
+
+  .info-item {
+    margin-bottom: 5px;
+    padding: 0 1%;
+  }
+  
+  .info-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    
+  }
+  
+  .info-institution {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 0.2%;
+  }
+  
+  .info-years {
+    font-weight: 600;
+  }
+
+  .info-course{
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 0.6%;
+  }
+  
+  .info-description {
+    font-weight: 200;
+    margin-bottom: 5px;
+    font-size: 14px;
+    min-width: 25vh;
+    max-width: 40%;
+    margin-bottom: 1%;
+  }
+  
+  .info-keywords {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .info-keyword {
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding: 3px 7px;   
+
+    font-weight: 500;
+  }
+  

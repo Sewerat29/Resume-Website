@@ -1,0 +1,27 @@
+.link {
+    min-width: 25vw;    
+    
+    border-bottom: 2px solid #000000;
+    border-right: 2px solid #000000;
+    cursor: pointer;
+    color: black;
+
+    letter-spacing: 0.2rem;
+    font-size: 30px;
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: 300;
+    text-decoration: none;    
+    line-height: 45px;    
+    
+    display: flex;
+    justify-content: center;
+
+}
+
+.link:hover {
+    background: #FFD78A;    
+}
+
+.link:last-child{
+    border-bottom: none;
+}
