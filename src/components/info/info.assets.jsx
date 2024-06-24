@@ -5,8 +5,8 @@ const InfoAssets = [
       {
         institution: 'All-Team',
         years: '2023',
-        description: '',
-        keywords: ['']
+        description: 'Summer internship where I mainly created components and bug fixing for existing projects using React and Storybook.',
+        keywords: ['React', 'Storybook', 'Bug Fixing']
       },
     ]
   },
