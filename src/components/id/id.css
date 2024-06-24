@@ -1,6 +1,6 @@
 .card {
     max-width: 35vw;
-    padding: 10% 0;
+    padding: 5% 0;
     padding-left: 5%;
 
     border-bottom: 2px solid black;
@@ -17,11 +17,14 @@
   
 .greeting {
     font-size: 4em;  
-    margin-bottom: 2%; 
+    margin-bottom: 2%;
+    text-align: center; 
 }
   
 .name {
-    font-size: 10em;
+    font-size: 9.5em;
     font-weight: bold;  
-    letter-spacing: 0.05em;  
+    letter-spacing: 0.1em;  
+    line-height: 1;
+    text-align: center;
 }

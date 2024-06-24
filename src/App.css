@@ -11,6 +11,7 @@ body{
 }
 
 .leftside{
+    max-width: 25vw;
     max-height: fit-content;
     display: flex;
     flex-direction: column;
@@ -21,3 +22,8 @@ body{
     position: relative;
 }
 
+@media (min-width: 1400px){
+    .leftside{
+        max-width: 35vw;
+    }
+}
