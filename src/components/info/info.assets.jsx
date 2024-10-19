@@ -16,7 +16,7 @@ const InfoAssets = [
       {
         institution: 'ESMAD - Escola Superior de Media Artes e Design',
         course: 'Technologies and Information Systems for the Web',
-        years: '2022 - Ongoing',
+        years: '2024 - Ongoing',
         description: 'Degree focused on everything web related, from front-end to back-end, with a strong emphasis on design and user experience.',
         keywords: ['HTML', 'Javascript', 'CSS', 'React', 'Python']
       },
