@@ -14,11 +14,11 @@ const InfoAssets = [
     title: 'Education',
     items: [
       {
-        institution: 'Instituto Politécnico do Cávado e do Ave',
-        course: 'Engineering and devolpment of Digital Games',
+        institution: 'ESMAD - Escola Superior de Media Artes e Design',
+        course: 'Technologies and Information Systems for the Web',
         years: '2022 - Ongoing',
-        description: 'While focused on Digital Games, this degree encompasses a wide spectrum of topics withing computer science. Topics such as maths, web development and computer vision.',
-        keywords: ['JavaScript', 'React', 'CSS', 'Unity', 'C#']
+        description: 'Degree focused on everything web related, from front-end to back-end, with a strong emphasis on design and user experience.',
+        keywords: ['HTML', 'Javascript', 'CSS', 'React', 'Python']
       },
       {
         institution: 'Instituto Politécnico do Cávado e do Ave',
