@@ -14,7 +14,7 @@ const InfoAssets = [
     title: 'Education',
     items: [
       {
-        institution: 'ESMAD - Escola Superior de Media Artes e Design',
+        institution: 'Instituto Politécnico do Porto',
         course: 'Technologies and Information Systems for the Web',
         years: '2024 - Ongoing',
         description: 'Degree focused on everything web related, from front-end to back-end, with a strong emphasis on design and user experience.',
