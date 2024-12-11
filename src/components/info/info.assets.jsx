@@ -5,7 +5,7 @@ const InfoAssets = [
       {
         institution: 'All-Team',
         years: '2023',
-        description: 'Summer internship where I mainly created components and bug fixing for existing projects using React and Storybook.',
+        description: 'Summer internship where I developed reusable UI components using React along with Storybook.I collaborated with design and development teams to ensure consistency and usability.Additionally, I fixed bugs in existing projects, improving functionality and reliability.',
         keywords: ['React', 'Storybook', 'Bug Fixing']
       },
     ]
@@ -33,6 +33,18 @@ const InfoAssets = [
         years: '2023',
         description: 'A 1-week program created by the Regional University Network (RUN-EU), co-created by the European Union, in which we were taught the fundamentals of AI, robotics and scientific writting. ',
         keywords: ['AI', 'Robotics', 'Scientific Writting', 'Public Speaking']
+      },
+    ]
+  },
+  {
+    title: 'Certificates',
+    items: [
+      {
+        institution: 'Instituto Politécnico do Porto',
+        course: 'TSIW - Endpoints',
+        years: '2024',
+        description: 'Workshop on the state of the art for web development and professional prospects for students.',
+        keywords: ['Web Development', 'Workshop']
       },
     ]
   },

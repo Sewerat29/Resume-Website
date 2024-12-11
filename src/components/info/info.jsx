@@ -5,6 +5,7 @@ import './info.assets.jsx';
 const InfoSection = ({ title, course, items }) => (
   <div className="info-section">
     <h2 className="info-title">{title}</h2>
+    <a href="" className="info-title">{title-link}</a>
     <h3 className="info-subtitle">{course}</h3>
     {items.map((item, index) => (
       <div key={index} className="info-item">
