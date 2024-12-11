@@ -37,18 +37,6 @@ const InfoAssets = [
     ]
   },
   {
-    title: 'Certificates',
-    items: [
-      {
-        institution: 'Instituto Politécnico do Porto',
-        course: 'TSIW - Endpoints',
-        years: '2024',
-        description: 'Workshop on the state of the art for web development and professional prospects for students.',
-        keywords: ['Web Development', 'Workshop']
-      },
-    ]
-  },
-  {
     title: 'Extras',
     items: [
       {
